@@ -2,7 +2,7 @@
 - 👀 I’m interested in all things data and some coding as well
 - 🌱 I’m currently learning Python and R
 - 💞️ I’m looking to collaborate on anything really.
-- 📫 How to reach me ajskip1506@outlook.com
+- 📫 How to reach me ajskip0329@outlook.com
 
 <!---
 ajskip1506/ajskip1506 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
